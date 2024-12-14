@@ -1,0 +1,14 @@
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.deps.json
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.dll
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.pdb
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.AssemblyInfoInputs.cache
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.AssemblyInfo.cs
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.csproj.CoreCompileInputs.cache
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.dll
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\refint\FunkoShopDomain.dll
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.pdb
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\ref\FunkoShopDomain.dll
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.runtimeconfig.json
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.genruntimeconfig.cache
+C:\Projects\WebFunkoShop\src\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.csproj.AssemblyReference.cache

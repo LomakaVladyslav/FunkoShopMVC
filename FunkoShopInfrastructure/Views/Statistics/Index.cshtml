@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Кількість фігурок за категоріями</h1>
+<canvas id="categoryChart" width="400" height="200"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    async function fetchCategoryData() {
+        const response = await fetch('/api/ChartApi');
+        const data = await response.json();
+
+        const labels = data.map(item => item.category);
+        const values = data.map(item => item.count);
+
+        const ctx = document.getElementById('categoryChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Кількість фігурок',
+                    data: values,
+                    backgroundColor: [
+                        'rgba(54, 162, 235, 0.2)', 
+                        'rgba(54, 162, 235, 0.4)', 
+                        'rgba(54, 162, 235, 0.6)', 
+                        'rgba(54, 162, 235, 0.8)', 
+                        'rgba(54, 162, 235, 1.0)'  
+                    ],
+                    borderColor: [
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(54, 162, 235, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    }
+                }
+            }
+        });
+    }
+
+    fetchCategoryData();
+</script>

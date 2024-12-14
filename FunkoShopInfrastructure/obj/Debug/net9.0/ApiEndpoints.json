@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "lab_infrastructure.Controllers.ChartAPIController",
+    "Method": "GetCategoryData",
+    "RelativePath": "api/ChartAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,116 @@
+﻿@model IEnumerable<FunkoShopDomain.Model.Figure>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>MainPage</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<div class="card-container">
+    @foreach (var item in Model)
+    {
+        <div class="card">
+            <img src="@item.ImageUrl" alt="@item.Name" class="card-img" />
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Description</p>
+                <p class="card-price">Price: @item.Price.ToString("C")</p>
+                <p class="card-category">Category: @item.Category.Name</p>
+                <p class="card-country">Country: @item.Country.Name</p>
+                <div class="card-actions">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .card-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 16px;
+        margin-top: 20px;
+    }
+
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+    }
+
+    .card-img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .card-body {
+        padding: 16px;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+        margin-bottom: 8px;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+        margin-bottom: 12px;
+        color: #555;
+    }
+
+    .card-price {
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    .card-category, .card-country {
+        font-size: 0.85rem;
+        color: #777;
+    }
+
+    .card-actions {
+        display: flex;
+        gap: 8px;
+        margin-top: 12px;
+    }
+
+    .btn {
+        text-decoration: none;
+        padding: 8px 12px;
+        border-radius: 4px;
+        color: #fff;
+        font-size: 0.9rem;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+    }
+
+    .btn-info {
+        background-color: #17a2b8;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+    }
+
+    .btn:hover {
+        opacity: 0.9;
+    }
+</style>
