@@ -4717,11 +4717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\FunkoShopDomain.csproj",
+      "projectUniqueName": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\FunkoShopDomain.csproj",
       "projectName": "FunkoShopDomain",
-      "projectPath": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\FunkoShopDomain.csproj",
+      "projectPath": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\FunkoShopDomain.csproj",
       "packagesPath": "C:\\Users\\Vladyslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\obj\\",
+      "outputPath": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

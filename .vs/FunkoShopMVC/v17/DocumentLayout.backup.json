@@ -1,77 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\",
+  "WorkspaceRootPath": "C:\\Projects\\FunkoShopMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\countriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\countriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\figuresapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\figuresapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\statistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\chartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\chartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\chartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\figures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopdomain\\model\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|c:\\projects\\funkoshopmvc\\funkoshopdomain\\model\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|solutionrelative:funkoshopdomain\\model\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\figures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\figurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\figurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\figures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\figures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\views\\figures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\views\\figures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\controllers\\figurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\controllers\\figurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\funkoshopinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\funkoshopinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopinfrastructure\\funkoshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\funkoshopinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\funkoshopinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|c:\\projects\\funkoshopmvc\\funkoshopinfrastructure\\funkoshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0E304D-A59F-4752-9689-7DE81DA37104}|FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj|solutionrelative:funkoshopinfrastructure\\funkoshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|c:\\projects\\webfunkoshop\\src\\funkoshopmvc\\funkoshopdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|c:\\projects\\funkoshopmvc\\funkoshopdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF7E4EAE-86EF-4FD6-B737-34D129F8A9B9}|FunkoShopDomain\\FunkoShopDomain.csproj|solutionrelative:funkoshopdomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,197 +94,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CountriesapiController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesapiController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\CountriesapiController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesapiController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\CountriesapiController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:40:04.509Z",
+              "WhenOpened": "2024-12-15T18:19:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesapiController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesapiController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\CategoriesapiController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesapiController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\CategoriesapiController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwHgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:18:28.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ChartAPIController.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "FiguresapiController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresapiController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\FiguresapiController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresapiController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\FiguresapiController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwHAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:34:00.513Z",
+              "WhenOpened": "2024-12-15T18:17:17.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\StatisticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:40:04.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChartAPIController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\ChartAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:34:00.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
               "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Statistics\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T17:32:00.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Figure.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\Model\\Figure.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\Model\\Figure.cs",
               "RelativeDocumentMoniker": "FunkoShopDomain\\Model\\Figure.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\Model\\Figure.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\Model\\Figure.cs",
               "RelativeToolTip": "FunkoShopDomain\\Model\\Figure.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:07:07.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T17:07:07.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
               "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T16:53:46.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T16:53:46.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:49:17.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Figures\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T16:49:17.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T16:44:27.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Countries\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T16:44:27.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T16:43:30.609Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T16:43:30.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
               "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\CountriesController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T16:24:16.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T16:24:16.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T16:23:48.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T15:12:28.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T15:09:23.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FiguresController.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:57:38.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T16:23:48.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Program.cs",
-              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Program.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\Program.cs",
-              "RelativeToolTip": "FunkoShopInfrastructure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:54:25.648Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:12:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Views\\Figures\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T15:09:23.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "FiguresController.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Controllers\\FiguresController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:57:38.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "FunkoShopInfrastructure\\Program.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\Program.cs",
+              "RelativeToolTip": "FunkoShopInfrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:54:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\appsettings.json",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\appsettings.json",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\appsettings.json",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\appsettings.json",
               "RelativeToolTip": "FunkoShopInfrastructure\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -280,24 +318,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "FunkoShopInfrastructure.csproj",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
               "RelativeToolTip": "FunkoShopInfrastructure\\FunkoShopInfrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T14:48:48.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T14:48:48.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "FunkoShopContext.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopContext.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopContext.cs",
               "RelativeDocumentMoniker": "FunkoShopInfrastructure\\FunkoShopContext.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopContext.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopInfrastructure\\FunkoShopContext.cs",
               "RelativeToolTip": "FunkoShopInfrastructure\\FunkoShopContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\Class1.cs",
               "RelativeDocumentMoniker": "FunkoShopDomain\\Class1.cs",
-              "ToolTip": "C:\\Projects\\WebFunkoShop\\src\\FunkoShopMVC\\FunkoShopDomain\\Class1.cs",
+              "ToolTip": "C:\\Projects\\FunkoShopMVC\\FunkoShopDomain\\Class1.cs",
               "RelativeToolTip": "FunkoShopDomain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
