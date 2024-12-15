@@ -146,6 +146,22 @@ namespace FunkoShopInfrastructure.Controllers
 
             return View(figure);
         }
+        public JsonResult GlobalSearch(string term)
+        {
+            var results = _context.Figures
+                .Where(f =>
+                    f.Name.Contains(term) ||
+                    f.Country.Name.Contains(term) ||
+                    f.Category.Name.Contains(term))
+                .Select(f => new {
+                    label = $"{f.Name} - {f.Category.Name} ({f.Country.Name})",
+                    value = f.Id,
+                    imageUrl = f.ImageUrl,
+                    price = f.Price.ToString("C")
+                })
+                .ToList();
+            return Json(results);
+        }
 
         // POST: Figures/Delete/5
         [HttpPost, ActionName("Delete")]
