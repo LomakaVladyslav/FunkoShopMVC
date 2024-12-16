@@ -6,7 +6,6 @@
 
 <h1>MainPage</h1>
 
-
 <div class="search-form">
     <input type="text" id="globalSearch" class="form-control" placeholder="Search by Figure Name or Country" />
 </div>
@@ -34,6 +33,13 @@
             </div>
         </div>
     }
+</div>
+
+<div class="contact-card">
+    <h3>Contact Us</h3>
+    <p>Email: support@funkoshop.com</p>
+    <p>Phone: +123 456 7890</p>
+    <a href="mailto:support@funkoshop.com" class="btn btn-primary">Send Email</a>
 </div>
 
 <style>
@@ -172,13 +178,52 @@
         color: #007bff;
         font-size: 0.9rem;
     }
+
+    .contact-card {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 250px;
+        padding: 15px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+
+        .contact-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .contact-card p {
+            margin: 5px 0;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        .contact-card .btn {
+            margin-top: 10px;
+            display: block;
+            text-align: center;
+            padding: 8px 12px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+
+            .contact-card .btn:hover {
+                background-color: #0056b3;
+            }
 </style>
 
 @section Scripts {
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <script>
-                $(function () {
+        $(function () {
             $("#globalSearch").autocomplete({
                 source: function (request, response) {
                     $.ajax({
@@ -192,7 +237,7 @@
                 minLength: 2,
                 delay: 300,
                 focus: function(event, ui) {
-                    event.preventDefault(); 
+                    event.preventDefault();
                 },
                 select: function(event, ui) {
                     event.preventDefault();
