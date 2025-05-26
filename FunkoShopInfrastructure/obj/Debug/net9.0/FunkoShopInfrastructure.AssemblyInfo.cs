@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunkoShopInfrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f3557d86195b5719b03d8adbce978365ca31036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+328b7dd56aa868ced7fdf47721d9842537e57a24")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunkoShopInfrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunkoShopInfrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

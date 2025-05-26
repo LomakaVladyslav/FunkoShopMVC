@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\FunkoShopInfrastructure",
-    "\\FunkoShopInfrastructure\\Views",
-    "\\FunkoShopInfrastructure\\Views\\Figures"
+    ""
   ],
-  "SelectedNode": "\\FunkoShopInfrastructure\\Views\\Figures\\Details.cshtml",
+  "SelectedNode": "\\FunkoShopMVC.sln",
   "PreviewInSolutionExplorer": false
 }

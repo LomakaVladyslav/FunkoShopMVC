@@ -27,3 +27,18 @@ C:\Projects\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\refint\FunkoShopDomain
 C:\Projects\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.pdb
 C:\Projects\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.genruntimeconfig.cache
 C:\Projects\FunkoShopMVC\FunkoShopDomain\obj\Debug\net9.0\ref\FunkoShopDomain.dll
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.deps.json
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.runtimeconfig.json
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.dll
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\bin\Debug\net9.0\FunkoShopDomain.pdb
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.csproj.AssemblyReference.cache
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.AssemblyInfoInputs.cache
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.AssemblyInfo.cs
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.csproj.CoreCompileInputs.cache
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.sourcelink.json
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.dll
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\refint\FunkoShopDomain.dll
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.pdb
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\FunkoShopDomain.genruntimeconfig.cache
+C:\Users\Marmelad\Documents\Методи специфікації та верифікації програм\Лаба1\FunkoShopDomain\obj\Debug\net9.0\ref\FunkoShopDomain.dll
